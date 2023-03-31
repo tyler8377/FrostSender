@@ -1,0 +1,12 @@
+[SMTP]
+host="localhost"
+port="25"
+user=""
+password=""
+
+[EMAIL]
+sender_email=""
+sender_name=""
+subject="DisneyPlus"
+body_file="./letter.html"
+emails_file="./emails.txt"
